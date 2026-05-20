@@ -356,11 +356,10 @@ function Footer({ onNav }) {
         </div>
 
         <div style={{ paddingTop: 28, display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 16 }}>
-          <div className="mono text-muted" style={{ fontSize: 11, letterSpacing: '0.12em' }}>© 2026 NESUS AI · ALL SYSTEMS NOMINAL</div>
+          <div className="mono text-muted" style={{ fontSize: 11, letterSpacing: '0.12em' }}>© 2026 NESUS AI · ALL RIGHTS RESERVED</div>
           <div className="mono text-muted" style={{ fontSize: 11, letterSpacing: '0.12em', display: 'flex', alignItems: 'center', gap: 18 }}>
             <span style={{ display: 'inline-flex', alignItems: 'center', gap: 8 }}>
-              <span style={{ width: 6, height: 6, borderRadius: 50, background: 'var(--accent)' }} />
-              CURRENTLY ACCEPTING Q3'26 PROJECTS
+             
             </span>
           </div>
         </div>
